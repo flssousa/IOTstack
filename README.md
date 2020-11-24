@@ -46,11 +46,3 @@ $ git pull origin master
 $ git checkout master
 $ ./menu.sh
 ```
-
-## Contributions
-
-Please use the [issues](https://github.com/SensorsIot/IOTstack/issues) tab to report issues.
-
-Join the [IOTstack Discord channel](https://discord.gg/W45tD83) if you want to comment on features, suggest new container types, or ask the IOTstack community for help.
-
-If you use some of the tools in the project please consider donating or contributing on their projects. It doesn't have to be monetary. Reporting bugs and creating Pull Requests helps improve the projects for everyone.
